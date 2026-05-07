@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Python,ML,Dl,GenAI Projects Links ####
+#### Python,ML,DL Projects Links ####
 <table>
       <thead>
         <tr>
