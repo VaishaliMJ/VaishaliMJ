@@ -48,5 +48,13 @@ Here are some ideas to get you started:
           </td>
           <td>Deep Learning Projects</td>
         </tr>
+        <tr>
+          <td>
+            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects">
+              Generative AI Projects
+            </a>
+          </td>
+          <td>Generative AI Projects</td>
+        </tr>    
         </tbody>
 </table>
