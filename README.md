@@ -1,5 +1,5 @@
 ## Hi,I am Vaishali ##
-- 🌱 I’m currently learning : Python,ML,Deep Learning
+- 🌱 I’m currently learning : Python,ML,Deep Learning(FNN,CNN,RNN),LLM,GenAI
 <!--
 **VaishaliMJ/VaishaliMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
