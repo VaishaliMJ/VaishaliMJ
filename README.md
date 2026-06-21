@@ -1,5 +1,5 @@
 ## Hi,I am Vaishali ##
-- Completed Python,ML,Deep Learning(FNN,CNN,RNN),LLM,GenAI course from Marvellous Infosystems
+- Completed Python,Machine Learning,Deep Learning(FNN,CNN,RNN),LLM,GenAI course from **Marvellous Infosystems,Pune**
 <!--
 **VaishaliMJ/VaishaliMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
