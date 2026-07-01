@@ -24,14 +24,6 @@ Here are some ideas to get you started:
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>
-            <a href = "https://github.com/VaishaliMJ/Marvellous_Python_Assignments">
-              Marvellous Infosystems : Class Assignments
-            </a>
-          </td>
-          <td>Marvellous Infosystems : Class Assignments</td>
-        </tr>
        <tr>
           <td>
             <a href = "https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects">
@@ -55,6 +47,14 @@ Here are some ideas to get you started:
             </a>
           </td>
           <td>Generative AI Projects</td>
+        </tr> 
+        <tr>
+          <td>
+            <a href = "https://github.com/VaishaliMJ/Marvellous_Python_Assignments">
+              Marvellous Infosystems : Class Assignments
+            </a>
+          </td>
+          <td>Marvellous Infosystems : Class Assignments</td>
         </tr>    
         </tbody>
 </table>
