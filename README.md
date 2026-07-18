@@ -19,35 +19,48 @@ Here are some ideas to get you started:
 <table>
       <thead>
         <tr>
-          <th>Title</th>
-          <th>Description</th>
+          <th>Category</th>
+          <th>Projects Title</th>
         </tr>
       </thead>
       <tbody>
-       <tr>
+      <tr>
           <td>
-            <a href = "https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects">
-              Python,Automation and Machine Learning Projects
+            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects">
+              Generative AI Projects
             </a>
           </td>
-          <td>Python,Automation and Machine Learning Projects</td>
-        </tr>
+          <td>
+                      <li>Marvellous SmartHire – AI Mock Interview Agent</li>
+                      <li>Intelligent Document Question Answering System using RAG & LLMs</li>
+          </td>
+        </tr>  
        <tr>
           <td>
             <a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects">
               Deep Learning Projects
             </a>
           </td>
-          <td>Deep Learning Projects</td>
-        </tr>
-        <tr>
           <td>
-            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects">
-              Generative AI Projects
+          <li> Surface crack detection using CNN</li>
+          <li> AI-Based Financial Time Series Forecasting using LSTM</li>  
+          <li>Handwritten digit classification</li> 
+          <li>Text Sentiment Analysis using RNN/LSTM</li> 
+          <li>Fashion MNIST</li>   
+          <li>Real Time Emotion Detection(CNN+OpenCV)</li>      
+          </td>
+        </tr>     
+       <tr>
+          <td>
+            <a href = "https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects">
+              Python,Automation and Machine Learning Projects
             </a>
           </td>
-          <td>Generative AI Projects</td>
-        </tr> 
+          <td>
+             Ad Click Predictor<br>
+             Advertising Sales Analysis   
+          </td>
+        </tr>
         <tr>
           <td>
             <a href = "https://github.com/VaishaliMJ/Marvellous_Python_Assignments">
