@@ -52,7 +52,7 @@ Here are some ideas to get you started:
         </tr>     
        <tr>
           <td>
-            <a href = "https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects">
+            <a href = "https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning">
               Machine Learning Projects
             </a>
           </td>
@@ -73,12 +73,29 @@ Here are some ideas to get you started:
           </td>
         </tr>
         <tr>
+            <td><a href=https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/AutomationProjects">
+              Automation Projects</td>
+              <td>
+                    <li>Directory Traversal</li>
+                    <li>System Process Logger</li>
+              </td>
+        </tr>
+        <tr>
+              <td><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/BasicPythonCodes">
+                    Basic Python</td>
+              <td>15+ Programs related to mathematical and string operations</td>
+        </tr>
+        <tr>
+              <td><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/PatternPrinting">
+                    Pattern Printing Programs</td>
+              <td>Different Star pattern printing programs</td>
+        <tr>
           <td>
             <a href = "https://github.com/VaishaliMJ/Marvellous_Python_Assignments">
               Marvellous Infosystems : Class Assignments
             </a>
           </td>
-          <td>Marvellous Infosystems : Class Assignments</td>
+          <td>Marvellous Infosystems 35+ class assignments related to basic and advanced python,Machine learning,DL etc</td>
         </tr>    
         </tbody>
 </table>
