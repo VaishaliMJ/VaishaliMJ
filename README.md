@@ -53,12 +53,23 @@ Here are some ideas to get you started:
        <tr>
           <td>
             <a href = "https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects">
-              Python,Automation and Machine Learning Projects
+              Machine Learning Projects
             </a>
           </td>
           <td>
-             Ad Click Predictor<br>
-             Advertising Sales Analysis   
+                <li>Movie Recommendation System</li>
+                <li>Ad Click Predictor</li>
+                <li>Advertising Sales Analysis</li>
+                <li>Breast Cancer Prediction</li>
+                <li>Customer Segmentation</li>
+                <li>Diabetes Prediction</li>
+                <li>Head Brain Classification and Regression</li>
+                <li>House Price Prediction</li>
+                <li>Iris Classification</li>
+                <li>Loan Default Prediction</li>
+                <li>Sentiment Analysis</li>
+                <li>Titanic Case Study</li>
+                <li>Wine Classifier</li>
           </td>
         </tr>
         <tr>
