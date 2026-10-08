@@ -34,6 +34,7 @@ Here are some ideas to get you started:
           <td>
                       <li>Marvellous SmartHire – AI Mock Interview Agent</li>
                       <li>Intelligent Document Question Answering System using RAG & LLMs</li>
+                      <li>ChatBot using Langgraph and Streamlit</li>
           </td>
         </tr>  
        <tr>
