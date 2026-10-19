@@ -32,9 +32,15 @@ Here are some ideas to get you started:
             </a>
           </td>
           <td>
-                      <li>Marvellous SmartHire – AI Mock Interview Agent</li>
-                      <li>Intelligent Document Question Answering System using RAG & LLMs</li>
-                      <li>ChatBot using Langgraph and Streamlit</li>
+                      <li>
+            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects/tree/main/SmartHire-AI%20Mock%20Interview%20Agent">
+                            Marvellous SmartHire – AI Mock Interview Agent</li>
+                      <li>
+            <a href = "https://github.com/VaishaliMJ/Generative-AI-projects/tree/main/Intelligent%20Document%20Question%20Answering%20System%20using%20RAG%20%26%20LLMs">
+                            Intelligent Document Question Answering System using RAG & LLMs</li>
+                      <li>
+      <a href = "https://github.com/VaishaliMJ/Generative-AI-projects/tree/main/ChatBot">
+                            ChatBot With histroy using LangChain,Langgraph and Streamlit</li>
           </td>
         </tr>  
        <tr>
