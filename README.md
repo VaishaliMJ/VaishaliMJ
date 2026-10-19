@@ -101,11 +101,13 @@ Here are some ideas to get you started:
           </td>
         </tr>
         <tr>
-            <td><a href=https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/AutomationProjects">
+            <td><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/AutomationProjects">
               Automation Projects</td>
               <td>
-                    <li>Directory Traversal</li>
-                    <li>System Process Logger</li>
+                    <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/AutomationProjects/Directory%20Traversal">
+                          Directory Traversal</li>
+                    <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/AutomationProjects/System%20Process%20Logger">
+                          System Process Logger</li>
               </td>
         </tr>
         <tr>
