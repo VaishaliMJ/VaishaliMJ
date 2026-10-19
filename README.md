@@ -52,7 +52,7 @@ Here are some ideas to get you started:
           <td>
           <li> <a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects/tree/main/SurfaceCrackDetectionUsingCNN">
                 Surface crack detection using CNN</li>
-          <li><a href = "https://github.com/VaishaliMJ/Deep-Learning Projects/tree/main/AI_Based_Financial_Time_Series_Forecasting_Using_LSTM">
+          <li><a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects/tree/main/AI_Based_Financial_Time_Series_Forecasting_Using_LSTM">
                 AI-Based Financial Time Series Forecasting using LSTM</li>  
           <li><a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects/tree/main/ImageClassificationWithCNN">
                 Handwritten digit classification</li> 
