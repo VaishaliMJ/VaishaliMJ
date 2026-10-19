@@ -50,12 +50,18 @@ Here are some ideas to get you started:
             </a>
           </td>
           <td>
-          <li> Surface crack detection using CNN</li>
-          <li> AI-Based Financial Time Series Forecasting using LSTM</li>  
-          <li>Handwritten digit classification</li> 
-          <li>Text Sentiment Analysis using RNN/LSTM</li> 
-          <li>Fashion MNIST</li>   
-          <li>Real Time Emotion Detection(CNN+OpenCV)</li>      
+          <li> <a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects/tree/main/SurfaceCrackDetectionUsingCNN">
+                Surface crack detection using CNN</li>
+          <li><a href = "https://github.com/VaishaliMJ/Deep-Learning Projects/tree/main/AI_Based_Financial_Time_Series_Forecasting_Using_LSTM">
+                AI-Based Financial Time Series Forecasting using LSTM</li>  
+          <li><a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects/tree/main/ImageClassificationWithCNN">
+                Handwritten digit classification</li> 
+          <li><a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects/tree/main/Text-Sentiment%20Analysis%20using%20RNN_LSTM">
+                Text Sentiment Analysis using RNN/LSTM</li> 
+          <li><a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects/tree/main/Fashion_MNIST">
+                Fashion MNIST</li>   
+          <li><a href = "https://github.com/VaishaliMJ/Deep-Learning-Projects/tree/main/RealTimeEmotionDetection">
+                Real Time Emotion Detection(CNN+OpenCV)</li>      
           </td>
         </tr>     
        <tr>
