@@ -71,19 +71,33 @@ Here are some ideas to get you started:
             </a>
           </td>
           <td>
-                <li>Movie Recommendation System</li>
-                <li>Ad Click Predictor</li>
-                <li>Advertising Sales Analysis</li>
-                <li>Breast Cancer Prediction</li>
-                <li>Customer Segmentation</li>
-                <li>Diabetes Prediction</li>
-                <li>Head Brain Classification and Regression</li>
-                <li>House Price Prediction</li>
-                <li>Iris Classification</li>
-                <li>Loan Default Prediction</li>
-                <li>Sentiment Analysis</li>
-                <li>Titanic Case Study</li>
-                <li>Wine Classifier</li>
+                <li>
+                <a href = "https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/MovieRecommendation(Unsupervised)">      
+                      Movie Recommendation System</li>
+                <li><a href = "https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/AdClickPredictor">
+                      Ad Click Predictor</li>
+                <li> <a href ="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/AdvertisingSalesAnalysis">
+                      Advertising Sales Analysis</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/BreastCancerPrediction">
+                      Breast Cancer Prediction</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/Customer%20Segmentation(Unsupervised)">
+                          Customer Segmentation</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/DiabetesPrediction">
+                      Diabetes Prediction</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/HeadBrainClassification">
+                      Head Brain Classification and Regression</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/HousePricePrediction">
+                      House Price Prediction</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/IrisClassification">
+                      Iris Classification</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/LoanDefaultPrediction">
+                      Loan Default Prediction</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/SentimentAnalysis">
+                      Sentiment Analysis</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/TitanicCaseStudy">
+                      Titanic Case Study</li>
+                <li><a href="https://github.com/VaishaliMJ/Python_and_Machine_Learning_Projects/tree/main/Machine%20Learning/WineClassifier">
+                      Wine Classifier</li>
           </td>
         </tr>
         <tr>
